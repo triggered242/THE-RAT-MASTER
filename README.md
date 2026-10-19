@@ -1,6 +1,15 @@
 # THE-RAT-MASTER
 IT IS A HACKING TOLL GIVES RAT CODES
 
+to dowload  
+
+
+git clone https://github.com/triggered242/THE-RAT-MASTER.git
+cd THE-RAT-MASTER
+ls -la
+python3 'RAT MASTER.py'
+
+
 
 
 
