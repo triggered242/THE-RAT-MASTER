@@ -1,0 +1,4 @@
+git clone https://github.com/triggered242/THE-VIRUSES-NAME-.git
+cd THE-VIRUSES-NAME-
+python3 'VIRUS DEMON.py'
+
